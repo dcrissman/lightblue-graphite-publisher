@@ -29,6 +29,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.redhat.lightblue</groupId>
     <artifactId>lightblue-graphite-publisher</artifactId>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>lightblue-graphite-publisher: ${project.groupId}|${project.artifactId}</name>
     
